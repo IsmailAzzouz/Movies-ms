@@ -1,0 +1,36 @@
+2026-01-21 12:59:51 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Syntax error in SQL statement "create table movie (id bigint not null, image_url varchar(255), imdbid varchar(255), title varchar(255), type varchar(255), [*]year varchar(255), primary key (id))"; expected "identifier"; SQL statement:
+create table movie (id bigint not null, image_url varchar(255), imdbid varchar(255), title varchar(255), type varchar(255), year varchar(255), primary key (id)) [42001-214]
+2026-01-21 13:18:29 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Syntax error in SQL statement "create table movie (id bigint not null, image_url varchar(255), imdbid varchar(255), title varchar(255), type varchar(255), [*]year varchar(255), primary key (id))"; expected "identifier"; SQL statement:
+create table movie (id bigint not null, image_url varchar(255), imdbid varchar(255), title varchar(255), type varchar(255), year varchar(255), primary key (id)) [42001-214]
+2026-01-21 13:31:48 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Syntax error in SQL statement "create table movie (id bigint not null, image_url varchar(255), imdbid varchar(255), title varchar(255), type varchar(255), [*]year varchar(255), primary key (id))"; expected "identifier"; SQL statement:
+create table movie (id bigint not null, image_url varchar(255), imdbid varchar(255), title varchar(255), type varchar(255), year varchar(255), primary key (id)) [42001-214]
+2026-01-21 15:20:40 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Syntax error in SQL statement "create table movie (id bigint not null, image_url varchar(255), imdbid varchar(255), title varchar(255), type varchar(255), [*]year varchar(255), primary key (id))"; expected "identifier"; SQL statement:
+create table movie (id bigint not null, image_url varchar(255), imdbid varchar(255), title varchar(255), type varchar(255), year varchar(255), primary key (id)) [42001-214]
+2026-01-21 15:21:08 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Syntax error in SQL statement "create table movie (id bigint not null, image_url varchar(255), imdbid varchar(255), title varchar(255), type varchar(255), [*]year varchar(255), primary key (id))"; expected "identifier"; SQL statement:
+create table movie (id bigint not null, image_url varchar(255), imdbid varchar(255), title varchar(255), type varchar(255), year varchar(255), primary key (id)) [42001-214]
+2026-01-21 15:21:11 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Syntax error in SQL statement "create table movie (id bigint not null, image_url varchar(255), imdbid varchar(255), title varchar(255), type varchar(255), [*]year varchar(255), primary key (id))"; expected "identifier"; SQL statement:
+create table movie (id bigint not null, image_url varchar(255), imdbid varchar(255), title varchar(255), type varchar(255), year varchar(255), primary key (id)) [42001-214]
+2026-01-21 15:22:24 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Syntax error in SQL statement "create table movie (id bigint not null, image_url varchar(255), imdbid varchar(255), title varchar(255), type varchar(255), [*]year varchar(255), primary key (id))"; expected "identifier"; SQL statement:
+create table movie (id bigint not null, image_url varchar(255), imdbid varchar(255), title varchar(255), type varchar(255), year varchar(255), primary key (id)) [42001-214]
+2026-01-21 15:25:34 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Syntax error in SQL statement "create table movie (id bigint not null, image_url varchar(255), imdbid varchar(255), title varchar(255), type varchar(255), [*]year varchar(255), primary key (id))"; expected "identifier"; SQL statement:
+create table movie (id bigint not null, image_url varchar(255), imdbid varchar(255), title varchar(255), type varchar(255), year varchar(255), primary key (id)) [42001-214]
+2026-01-21 15:27:17 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Syntax error in SQL statement "create table movie (id bigint not null, image_url varchar(255), imdbid varchar(255), title varchar(255), type varchar(255), [*]year varchar(255), primary key (id))"; expected "identifier"; SQL statement:
+create table movie (id bigint not null, image_url varchar(255), imdbid varchar(255), title varchar(255), type varchar(255), year varchar(255), primary key (id)) [42001-214]
+2026-01-21 15:54:19 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Syntax error in SQL statement "create table movie (id bigint not null, image_url varchar(255), imdbid varchar(255), title varchar(255), type varchar(255), [*]year varchar(255), primary key (id))"; expected "identifier"; SQL statement:
+create table movie (id bigint not null, image_url varchar(255), imdbid varchar(255), title varchar(255), type varchar(255), year varchar(255), primary key (id)) [42001-214]
+2026-01-21 16:13:27 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Syntax error in SQL statement "create table movie (id bigint not null, image_url varchar(255), imdbid varchar(255), title varchar(255), type varchar(255), [*]year varchar(255), primary key (id))"; expected "identifier"; SQL statement:
+create table movie (id bigint not null, image_url varchar(255), imdbid varchar(255), title varchar(255), type varchar(255), year varchar(255), primary key (id)) [42001-214]
+2026-01-21 16:23:15 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Syntax error in SQL statement "create table movie (id bigint generated by default as identity, image_url varchar(255), imdbid varchar(255), title varchar(255), type varchar(255), [*]year varchar(255), primary key (id))"; expected "identifier"; SQL statement:
+create table movie (id bigint generated by default as identity, image_url varchar(255), imdbid varchar(255), title varchar(255), type varchar(255), year varchar(255), primary key (id)) [42001-214]
